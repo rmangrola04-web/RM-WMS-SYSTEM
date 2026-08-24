@@ -1,0 +1,7 @@
+{
+  "name": "Warehouse Vehicle Tracker",
+  "description": "Warehouse Vehicle Movement System for gate entry, dock placement, and loading/unloading tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
